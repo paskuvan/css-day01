@@ -11,3 +11,22 @@ body {
 .gray {
     color: #8e8e8e;
 }
+
+.navbar-light .navbar-nav .nav-link {
+    color: #8e8e8e !important;
+}
+
+.btn-default  {
+    background-color: #da5c71;
+    color: white;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.img-bg {
+    width: 100%;
+    height: auto;
+}
+
