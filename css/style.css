@@ -12,8 +12,12 @@ body {
     color: #8e8e8e;
 }
 
+.font-weight {
+    font-weight: 700;;
+}
+
 .navbar-light .navbar-nav .nav-link {
-    color: #8e8e8e !important;
+    color: #da5c71!important;
 }
 
 .btn-default  {
@@ -30,3 +34,18 @@ body {
     height: auto;
 }
 
+.subtitle-margin {
+    margin-top: 12px;
+}
+
+.mt-title {
+    margin-top: 3em;
+}
+
+.font-icon {
+    font-size: 25px;
+}
+
+a:hover {
+    color: #da5c71;
+}
