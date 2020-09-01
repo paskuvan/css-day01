@@ -57,3 +57,43 @@ a:hover {
 .margin-footer {
     margin: 20px 0;
 }
+
+/*768*/
+
+@media (max-width: 768px) {
+    .section-one {
+        font-size: 25px;
+        margin-bottom: 1em;
+        margin-top: 1em;
+        text-align: center;
+    }
+
+    .form-one {
+        margin-left: 10px;
+    }
+
+    .btn-one {
+        position: relative;
+        bottom: 8px;
+    }
+
+    .no-padding {
+        padding: 0 !important;
+    }
+
+    .mt-title {
+        margin-top: 1em;
+    }
+
+    .icons-mb {
+        margin-bottom: 40px;
+    }
+
+    .wine {
+        margin-top: 5em;
+    }
+
+    mb-footer {
+        margin-bottom: 1em !important;
+    }
+}
